@@ -3,4 +3,4 @@
 ## 學號
 s1152005
 ## 我的照片
- ![Home Page](./images/0.jpg)
+![Home Page](image/0.jpg)
